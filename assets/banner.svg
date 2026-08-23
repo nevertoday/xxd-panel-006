@@ -1,0 +1,61 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>XXD Panel 006</title>
+  <desc>Minimal paper art-book cover with one tiny recognisable subject, 80 to 90 percent pale paper, fine unstable hand line, no more than four source-derived colours, and restrained opaque acrylic shapes.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="400" rx="30"/></clipPath>
+    <pattern id="paper" width="41" height="36" patternUnits="userSpaceOnUse">
+      <path d="M3 8C9 7 15 5 22 6M27 27C31 25 36 26 40 23M8 33L16 31" stroke="#3D3A34" stroke-opacity=".07" stroke-width=".8"/>
+      <circle cx="30" cy="10" r=".7" fill="#3D3A34" fill-opacity=".07"/>
+    </pattern>
+    <filter id="wobble" x="-15%" y="-15%" width="130%" height="130%">
+      <feTurbulence type="fractalNoise" baseFrequency=".014 .05" numOctaves="1" seed="6" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.8" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="paint" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency=".26" numOctaves="2" seed="11" result="grain"/>
+      <feComposite in="grain" in2="SourceGraphic" operator="in" result="texture"/>
+      <feBlend in="SourceGraphic" in2="texture" mode="multiply"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="400" fill="#F3F0E5"/>
+    <rect width="1200" height="400" fill="url(#paper)"/>
+    <path d="M1010 0H1200V400H1147C1119 328 1114 245 1133 166C1143 124 1117 75 1081 48C1056 29 1032 17 1010 0Z" fill="#E7E0CC" fill-opacity=".55"/>
+
+    <g transform="translate(970 244)">
+      <path d="M-84 48C-55 18 -32 -5 -1 -11C31 -17 57 3 72 30C89 61 72 89 43 103C7 121 -46 107 -84 48Z" fill="#D75D46" filter="url(#paint)"/>
+      <path d="M-68 42C-44 17 -22 1 4 -3C28 -6 49 9 57 32C66 56 54 78 32 88C5 100 -35 88 -68 42Z" fill="#F3F0E5"/>
+      <path d="M-65 43C-41 19 -20 4 4 1C27 -2 44 11 51 32C58 53 48 72 29 81C4 93 -32 82 -65 43Z" stroke="#2F3432" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#wobble)"/>
+      <path d="M-27 20C-11 24 3 33 12 46M-39 48C-19 52 1 50 20 40M-20 72C-4 64 12 61 30 63" stroke="#2F3432" stroke-width="1.8" stroke-linecap="round" filter="url(#wobble)"/>
+      <circle cx="-11" cy="22" r="4.2" fill="#2E708E"/>
+      <path d="M53 31C69 21 84 21 100 29L91 54C77 49 66 51 53 62Z" fill="#E7B83E" filter="url(#paint)"/>
+      <path d="M-92 106C-47 112 10 111 72 103" stroke="#2F3432" stroke-width="1.5" stroke-linecap="round" filter="url(#wobble)"/>
+      <text x="-89" y="130" fill="#2F3432" font-family="Georgia, serif" font-size="11" letter-spacing="1.6">ONE SMALL THING / 006</text>
+    </g>
+
+    <text x="1036" y="35" text-anchor="end" fill="#47443E" fill-opacity=".72" font-family="Arial, sans-serif" font-size="11" font-weight="700">中文 · EN · 日本語 · 한국어 ·</text>
+    <text x="1133" y="35" text-anchor="end" direction="rtl" fill="#47443E" fill-opacity=".72" font-family="Arial, sans-serif" font-size="11" font-weight="700">العربية</text>
+  </g>
+
+  <g transform="translate(64 56)">
+    <rect width="225" height="34" rx="7" fill="#2F3432" filter="url(#wobble)"/>
+    <text x="17" y="22" fill="#F3F0E5" font-family="Arial, sans-serif" font-size="13" font-weight="900" letter-spacing="2">🦁 XXD / IMAGE SKILL</text>
+    <text x="0" y="117" fill="#2F3432" font-family="Georgia, serif" font-size="68" font-weight="700" letter-spacing="-3">PANEL <tspan fill="#D75D46">006</tspan></text>
+    <text x="2" y="158" fill="#2E708E" font-family="Arial, sans-serif" font-size="19" font-weight="900" letter-spacing=".9">SMALL SUBJECT · VAST PAPER · FLAT ACRYLIC</text>
+    <text x="2" y="197" fill="#2F3432" font-family="sans-serif" font-size="18" font-weight="800">小主体纸感艺术书封 · 四色以内丙烯平涂</text>
+    <text x="2" y="226" fill="#2F3432" fill-opacity=".72" font-family="sans-serif" font-size="14" font-weight="700">小さな主体と大きな紙の余白 · 작은 주제와 넓은 종이 여백</text>
+    <text x="2" y="255" fill="#2F3432" fill-opacity=".72" font-family="Arial, sans-serif" font-size="14" font-weight="700">موضوع صغير ومساحة ورقية واسعة</text>
+  </g>
+
+  <g transform="translate(64 327)">
+    <rect width="151" height="37" rx="7" fill="#2F3432" filter="url(#wobble)"/>
+    <text x="75.5" y="24" text-anchor="middle" fill="#F3F0E5" font-family="Courier New, monospace" font-size="12" font-weight="900">10–20% SUBJECT</text>
+    <rect x="163" width="147" height="37" rx="7" fill="#D75D46" filter="url(#wobble)"/>
+    <text x="236.5" y="24" text-anchor="middle" fill="#F3F0E5" font-family="Courier New, monospace" font-size="12" font-weight="900">80–90% PAPER</text>
+    <rect x="322" width="107" height="37" rx="7" fill="#2E708E" filter="url(#wobble)"/>
+    <text x="375.5" y="24" text-anchor="middle" fill="#F3F0E5" font-family="Courier New, monospace" font-size="12" font-weight="900">4 MODES</text>
+    <rect x="441" width="180" height="37" rx="7" fill="#E7B83E" filter="url(#wobble)"/>
+    <text x="531" y="24" text-anchor="middle" fill="#2F3432" font-family="Courier New, monospace" font-size="12" font-weight="900">WALLPAPER PACK</text>
+  </g>
+</svg>
