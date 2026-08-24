@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-006"
-  short_description: "Create tiny-subject acrylic paper-cover artwork."
-  default_prompt: "Use $xxd-panel-006 to turn my photo into a quiet paper art-book cover with a tiny recognisable subject, vast whitespace, fine hand line, and no more than four acrylic colours; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 006 from its original style brief."
+  default_prompt: "Use $xxd-panel-006; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."
