@@ -42,7 +42,18 @@ Fine, slightly unstable hand line indicates only essential structure; a few comp
 
 These samples demonstrate the 006 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 006 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Reduce a photograph to a tiny recognisable subject on a vast tactile paper cover |
+| **Recognizable signature** | 10–20% SUBJECT · 80–90% PAPER · FINE HAND LINE · FOUR COLOURS MAX · FLAT ACRYLIC |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Minimal hand drawing” easily collapses into one of two failures: weightless pure line art, or an empty canvas where whitespace has no compositional relationship to the subject.
 
@@ -54,7 +65,7 @@ lock source facts → reduce to a 10–20% vignette → make 80–90% rough pape
 
 If an unrelated photograph could replace the source without materially changing the vignette silhouette, key colour blocks, whitespace relationship, or copy, the result is not 006.
 
-## The 006 visual contract
+## What makes the finished style recognizable
 
 - **Small subject, high recognition:** the vignette occupies about 10–20%, yet at least three source-specific cues preserve identity, action, function, and emotion.
 - **Whitespace is space:** 80–90% rough white, warm-white, or pale paper carries scale, quiet, and publishing character.
