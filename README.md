@@ -22,6 +22,26 @@ XXD Panel 006 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 纤细、略不稳定的手绘线只提示必要结构，少量完整不透明的丙烯平涂块负责建立主体；纸面之外最多四种源图颜色。文字不是贴在插画上的口号，而是在大留白中与小主体形成安静对重的艺术书封排版。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089997569829093688) · 2026-08-19<br>
+> GPT2 x 克制 x 手绘感 x 丙烯平涂 x 美学提示词 x VOL.006
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 006 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 006 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 006 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 006 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 006 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 006
 
 普通“极简手绘”很容易退化成两种错误：一张没有主体重量的纯线稿，或一张把“留白”误解成没有构图关系的空画布。
@@ -44,26 +64,6 @@ XXD Panel 006 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **四色以内：** 纸面底色之外最多四种源图主要颜色，每一种都有身份或结构职责。
 - **极少环境暗示：** 最多几条短线或一个克制色面，不重建完整场景，不填满留白。
 - **书封式文字：** 一个简短标题与最多两条小字通过留白与小插画形成对重。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089997569829093688) · 2026-08-19<br>
-> GPT2 x 克制 x 手绘感 x 丙烯平涂 x 美学提示词 x VOL.006
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 006 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 006 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 006 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 006 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 006 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

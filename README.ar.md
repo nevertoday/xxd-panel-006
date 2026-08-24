@@ -24,6 +24,26 @@ XXD Panel 006 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 لا يبيّن الخط اليدوي الرفيع وغير المستقر قليلاً إلا البنية الضرورية، بينما تبني مساحات أكريليك قليلة وكاملة ومعتمة الموضوع. ولا تتجاوز الألوان الأساسية المشتقة من المصدر أربعة ألوان خارج لون الورق. أما النص فهو تركيب هادئ لغلاف كتاب فني يوازن الرسم الصغير عبر الفراغ، لا شعاراً ملصقاً عليه.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089997569829093688) · 2026-08-19<br>
+> GPT2 x 克制 x 手绘感 x 丙烯平涂 x 美学提示词 x VOL.006
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 006 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 006 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 006 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 006 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 006 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 006؟
 
 يتحوّل «الرسم البسيط» بسهولة إلى أحد فشلين: رسم خطي بلا وزن، أو لوحة فارغة لا تربط الفراغ بالموضوع تركيبياً.
@@ -46,26 +66,6 @@ XXD Panel 006 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **أربعة ألوان كحد أقصى:** خارج لون الورق، لكل لون رئيسي مشتق من المصدر وظيفة تعريفية أو بنيوية.
 - **أقل إشارة للبيئة:** بضعة خطوط قصيرة أو مساحة لونية واحدة؛ لا إعادة بناء للمشهد ولا ملء للفراغ.
 - **نص غلاف كتاب:** عنوان قصير واحد وما لا يزيد على سطرين صغيرين يوازنان الرسم عبر الفراغ.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089997569829093688) · 2026-08-19<br>
-> GPT2 x 克制 x 手绘感 x 丙烯平涂 x 美学提示词 x VOL.006
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 006 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 006 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 006 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 006 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 006 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

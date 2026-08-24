@@ -22,6 +22,26 @@ XXD Panel 006는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 가늘고 약간 불안정한 손선은 필요한 구조만 알리고, 소수의 완전하고 불투명한 아크릴 평면이 주제를 세웁니다. 종이색을 제외한 주요 색은 원본에서 가져온 네 색 이내입니다. 글자는 슬로건이 아니라 넓은 여백 속에서 작은 삽화와 균형을 이루는 조용한 아트북 표지 조판입니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089997569829093688) · 2026-08-19<br>
+> GPT2 x 克制 x 手绘感 x 丙烯平涂 x 美学提示词 x VOL.006
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 006 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 006 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 006 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 006 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 006의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 006이 필요한가요
 
 일반적인 ‘미니멀 손그림’은 무게 없는 순수 선화나, 주제와 아무 관계가 없는 빈 캔버스로 쉽게 무너집니다.
@@ -44,26 +64,6 @@ XXD Panel 006는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **최대 네 색:** 종이색 이외에는 원본 기반 주요 색이 네 가지 이내이며 각각 식별 또는 구조 역할이 있습니다.
 - **최소한의 환경:** 짧은 선 몇 개나 절제된 색면 하나만 허용하며 장면 전체를 재현하지 않습니다.
 - **책 표지 글자:** 짧은 제목 하나와 최대 두 줄의 작은 글자가 여백에서 삽화와 균형을 이룹니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089997569829093688) · 2026-08-19<br>
-> GPT2 x 克制 x 手绘感 x 丙烯平涂 x 美学提示词 x VOL.006
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 006 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 006 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 006 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 006 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 006의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

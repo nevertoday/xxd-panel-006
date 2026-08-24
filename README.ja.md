@@ -22,6 +22,26 @@ XXD Panel 006 は、Codex と互換 Agent のための画像生成 Skill です�
 
 細くわずかに不安定な手描き線は必要な構造だけを示し、少数の完全で不透明なアクリル平塗りが主体を作ります。紙色を除く主色は元写真由来の4色以内。文字はスローガンではなく、大きな余白の中で小さな挿絵と釣り合う静かな書籍表紙の組版です。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089997569829093688) · 2026-08-19<br>
+> GPT2 x 克制 x 手绘感 x 丙烯平涂 x 美学提示词 x VOL.006
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 006 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 006 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 006 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 006 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 006 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 006 が必要なのか
 
 一般的な「ミニマル手描き」は、重さのない線画か、主体との関係を持たない空白キャンバスのどちらかへ崩れがちです。
@@ -44,26 +64,6 @@ XXD Panel 006 は、Codex と互換 Agent のための画像生成 Skill です�
 - **4色以内：** 紙色以外は元写真由来の主色4色以内で、それぞれに識別または構造上の役割があります。
 - **最小限の環境：** 数本の短線か一つの控えめな色面だけで、場面全体を再現しません。
 - **書籍表紙の文字：** 一つの短いタイトルと最大二つの小さな補助文字が余白で挿絵と釣り合います。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2089997569829093688) · 2026-08-19<br>
-> GPT2 x 克制 x 手绘感 x 丙烯平涂 x 美学提示词 x VOL.006
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 006 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 006 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 006 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 006 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 006 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 
