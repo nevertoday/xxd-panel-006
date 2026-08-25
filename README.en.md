@@ -16,16 +16,7 @@
 
 </div>
 
-> 10–20% SUBJECT · 80–90% PAPER · FINE HAND LINE · FOUR COLOURS MAX · FLAT ACRYLIC
-
-XXD Panel 006 is an image-generation Skill for Codex and compatible agents. It preserves real identity, action, function, and emotion while radically reducing the subject to one concentrated vignette occupying about 10–20% of the design frame. The remaining 80–90% becomes active rough white or pale paper space.
-
-Fine, slightly unstable hand line indicates only essential structure; a few complete opaque acrylic flat shapes establish the subject; no more than four source-derived colours live beyond the paper. Type is not a slogan pasted onto the illustration, but sparse art-book-cover composition counterbalanced against the tiny vignette through whitespace.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089997569829093688) · 2026-08-19<br>
-> GPT2 x 克制 x 手绘感 x 丙烯平涂 x 美学提示词 x VOL.006
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ Fine, slightly unstable hand line indicates only essential structure; a few comp
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2089997569829093688) · 2026-08-19<br>
+> GPT2 x 克制 x 手绘感 x 丙烯平涂 x 美学提示词 x VOL.006
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2089997569829093688">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 006 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> 10–20% SUBJECT · 80–90% PAPER · FINE HAND LINE · FOUR COLOURS MAX · FLAT ACRYLIC
+
+XXD Panel 006 is an image-generation Skill for Codex and compatible agents. It preserves real identity, action, function, and emotion while radically reducing the subject to one concentrated vignette occupying about 10–20% of the design frame. The remaining 80–90% becomes active rough white or pale paper space.
+
+Fine, slightly unstable hand line indicates only essential structure; a few complete opaque acrylic flat shapes establish the subject; no more than four source-derived colours live beyond the paper. Type is not a slogan pasted onto the illustration, but sparse art-book-cover composition counterbalanced against the tiny vignette through whitespace.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 006 right for you?
