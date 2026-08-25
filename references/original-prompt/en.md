@@ -1,0 +1,13 @@
+# XXD Panel 006 original prompt · English translation
+
+> Faithful reading translation. The [Simplified Chinese original](zh-CN.md) remains the sole runtime authority.
+
+Please make every photo I upload into its own standalone high-end design poster; no multi-image collages, each photo output separately. The overall composition uses a 3:4 vertical format, with the upper and lower zones strictly 1:1 in height, each taking up 50% of the frame.
+
+The upper half keeps the original photo, preserving the subject's structure, real texture, natural light and shadow, and original color atmosphere, applying only a slight high-end photographic color grade so that it carries the texture of magazine photography and art publications. To fit the frame, the sky, ground, or surrounding background may be extended naturally, but the subject must not be stretched, distorted, or altered.
+
+The lower half extracts the most recognizable subject, outline, pose, and narrative relationships from the photo and reconstructs them into a minimal, paper-feeling hand-drawn cover illustration. Distill heavily and cut away complex details, keeping only the most crucial visual features, and re-express them with fine, slightly unsteady hand-drawn lines and a small number of clearly defined flat acrylic color patches, so the original theme is recognizable at a glance. The subject stays small and concentrated, occupying roughly 10%–20% of the lower half, with large areas of negative space all around; the background is mainly rough white paper or pale-colored paper, with only a very small number of lines or color planes hinting at the environment.
+
+The colors are extracted from the photo above and compressed to no more than 4 main colors, with color patches that are vivid, complete, and restrained, keeping paper grain, handmade application, and slightly irregular edges. Lines are responsible for indicating structure; color patches are responsible for establishing the subject. Avoid colored pencil, crayon, watercolor bleeding, pure line art, complex realism, heavy oil painting, smooth digital illustration, and 3D texture.
+
+A small amount of concise text may be added, flexibly using a title, theme word, object name, place, year, number, or a short phrase according to the photo's content, not limited to urban material. The text layout is airy and restrained, blending naturally with the negative space and the illustration, with the design feel of art book covers, independent publications, and children's picture books. The whole presents a visual temperament of small subject, large negative space, strong distillation, high recognizability, quiet, childlike, relaxed, poetic, and high-end, avoiding a commercial cartoon feel, an e-commerce feel, and a template feel.
