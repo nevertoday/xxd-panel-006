@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 006
+# 🦁 XXD Panel 006｜여백의 소극장
 
 ### 사진을 작은 주제와 넓은 종이 여백의 아트북 표지로
 

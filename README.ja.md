@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 006
+# 🦁 XXD Panel 006｜余白の小劇場
 
 ### 写真を、小さな主体と大きな紙の余白を持つアートブック表紙へ
 

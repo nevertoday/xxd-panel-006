@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 006
+# 🦁 XXD Panel 006｜Negative-Space Theater
 
 ### Reduce a photograph to a tiny recognisable subject on a vast tactile paper cover
 

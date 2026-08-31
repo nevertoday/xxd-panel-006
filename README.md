@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 006
+# 🦁 XXD Panel 006｜留白小剧场
 
 ### 把照片提炼成小主体、大留白、丙烯平涂的纸感艺术书封
 
