@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 006｜Negative-Space Theater: reduces a photo to a small, instantly recognisable subject — about a tenth to a fifth of the design — drawn with thin, slightly unsteady hand lines and a few clear flat acrylic colour blocks (four main colours at most, taken from the photo) on rough white or pale paper with 80–90% empty space, only a hint of setting, visible paper grain and hand-painted edges, and a little airy text such as a title, object name, place, year or number, like an art-book or picture-book cover; it avoids coloured pencil, crayon, watercolour washes, pure line art, oil painting, smooth digital and 3D looks. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-006 or asks for small-subject, big-whitespace acrylic book-cover illustration from a photo.",
+  "short_description": "留白小剧场：把照片提炼成小主体、大留白、丙烯平涂的纸感艺术书封",
+  "zh-CN": {
+    "name": "留白小剧场",
+    "tagline": "把照片提炼成一个小小的主体，放在大片纸面留白里，像一本艺术书的封面。",
+    "look": "照片里最关键的主体被删繁就简，用纤细、略不稳的手绘线勾出结构，再用少量鲜明完整的丙烯平涂色块立起来，一眼就能认出。主体只占设计的一到两成，四周是粗糙白纸或浅色纸的大片留白，环境只用一两笔线或色面暗示。颜色从照片里压缩成不超过四种，保留纸张颗粒、手涂痕迹和不规则边缘。文字少而疏朗，可以是标题、对象名、地点、年份、编号或一句短句。",
+    "traits": [
+      "80–90% 留白",
+      "纤细手线",
+      "四色以内",
+      "丙烯平涂",
+      "封面"
+    ],
+    "good": [
+      "一个主体、轮廓好认的照片：一辆自行车、一座灯塔、一只狗、一把椅子",
+      "安静、有空间感的瞬间：海边一个人、雪地里一棵树",
+      "想做书封、展览海报或独立出版物封面的照片"
+    ],
+    "poor": [
+      "重点在大量细节或很多人的照片，缩成小主体后信息会丢失",
+      "希望主体占满画面、放大展示的需求",
+      "想要彩铅、蜡笔、水彩晕染、油画厚涂或光滑数字插画质感的需求"
+    ]
+  },
+  "en": {
+    "name": "Negative-Space Theater",
+    "tagline": "Reduces a photo to one small subject on a vast field of paper, like the cover of an art book.",
+    "look": "The key subject is stripped of clutter, its structure sketched in thin, slightly unsteady hand lines and built up with a few bold, solid patches of flat acrylic, so it is recognisable at a glance. It takes up only a tenth to a fifth of the design, surrounded by wide rough white or pale paper, with the setting suggested by a line or a single colour plane. Colours from the photo are pared down to four at most, keeping paper grain, hand-painted marks and uneven edges. Text is sparse and airy: a title, the object's name, a place, a year, a number or a short line.",
+    "traits": [
+      "80–90% whitespace",
+      "Thin hand line",
+      "Four colours or fewer",
+      "Flat acrylic",
+      "Cover design"
+    ],
+    "good": [
+      "Photos with one subject and a clear outline: a bicycle, a lighthouse, a dog, a chair",
+      "Quiet moments with a sense of space: one person by the sea, a tree in snow",
+      "Photos for a book cover, exhibition poster or small-press publication"
+    ],
+    "poor": [
+      "Photos whose point is lots of detail or many people, which gets lost at small size",
+      "Requests to show the subject large and filling the frame",
+      "Requests for coloured pencil, crayon, watercolour washes, thick oil paint or smooth digital illustration"
+    ]
+  },
+  "ja": {
+    "name": "余白の小劇場",
+    "tagline": "写真を一つの小さな主役にまとめ、広い紙の余白に置いて、アートブックの表紙のようにします。",
+    "look": "写真のいちばん大事な主役を思い切って簡略化し、細くて少し不安定な手描き線で構造を示し、少数のはっきりしたアクリルのベタ塗りで形を立ち上げるので、一目でそれとわかります。主役はデザインの一割から二割ほどで、まわりはざらりとした白い紙や淡い紙の大きな余白、環境は線一本や色面一つでほのめかす程度です。色は写真から四色以内にしぼり、紙の粒子、手塗りの跡、不揃いな縁を残します。文字は少なくゆったりと、タイトル、モノの名前、地名、年号、番号、短い一言などを置きます。",
+    "traits": [
+      "80〜90% の余白",
+      "細い手描き線",
+      "四色以内",
+      "アクリルのベタ塗り",
+      "表紙"
+    ],
+    "good": [
+      "主役が一つで輪郭のわかりやすい写真：自転車、灯台、犬、椅子",
+      "静かで空間を感じる瞬間：海辺に一人、雪の中の一本の木",
+      "本の表紙、展覧会ポスター、独立系出版物の表紙にしたい写真"
+    ],
+    "poor": [
+      "細部の多さや人の多さが見どころの写真（小さくすると情報が消えます）",
+      "主役を画面いっぱいに大きく見せたい場合",
+      "色鉛筆、クレヨン、水彩のにじみ、油絵の厚塗り、なめらかなデジタル画を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "여백의 소극장",
+    "tagline": "사진을 작은 주인공 하나로 줄여 넓은 종이 여백에 두어 아트북 표지처럼 만듭니다.",
+    "look": "사진의 핵심 주인공을 과감히 덜어 내고, 가늘고 조금 불안정한 손그림 선으로 구조를 짚은 뒤 선명하고 온전한 아크릴 평면 색 몇 개로 형태를 세워 한눈에 알아보게 합니다. 주인공은 디자인의 10~20%만 차지하고, 둘레는 거친 흰 종이나 연한 종이의 넓은 여백이며, 환경은 선 한 줄이나 색면 하나로만 암시합니다. 색은 사진에서 네 가지 이하로 줄이고 종이 결, 손으로 칠한 흔적, 고르지 않은 가장자리를 남깁니다. 글자는 적고 여유 있게, 제목, 대상 이름, 장소, 연도, 번호, 짧은 문장 등을 둡니다.",
+    "traits": [
+      "80~90% 여백",
+      "가는 손선",
+      "네 가지 색 이하",
+      "아크릴 평면 채색",
+      "표지"
+    ],
+    "good": [
+      "주인공이 하나이고 윤곽이 알아보기 쉬운 사진: 자전거, 등대, 강아지, 의자",
+      "조용하고 공간감 있는 순간: 바닷가의 한 사람, 눈 속의 나무 한 그루",
+      "책 표지, 전시 포스터, 독립 출판물 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "많은 디테일이나 많은 사람이 핵심인 사진(작게 줄이면 정보가 사라집니다)",
+      "주인공을 화면 가득 크게 보여 주고 싶은 경우",
+      "색연필, 크레용, 수채 번짐, 두꺼운 유화, 매끈한 디지털 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مسرح الفراغ الصغير",
+    "tagline": "يختزل الصورة في عنصر صغير واحد وسط مساحة واسعة من الورق، كغلاف كتاب فني.",
+    "look": "يُجرَّد العنصر الأهم في الصورة من الزوائد، وتُرسم بنيته بخطوط يد رفيعة غير ثابتة قليلاً، ثم يُبنى ببضع مساحات واضحة مكتملة من الأكريليك المسطّح، فيُعرف من النظرة الأولى. لا يشغل إلا عُشر التصميم إلى خُمسه، وتحيط به مساحة واسعة من ورق أبيض خشن أو فاتح، ولا يُلمَّح إلى المكان إلا بخط أو مساحة لون واحدة. تُختصر ألوان الصورة في أربعة على الأكثر، مع حبيبات الورق وآثار الطلاء اليدوي والحواف غير المنتظمة. النص قليل ومتباعد: عنوان أو اسم الشيء أو مكان أو سنة أو رقم أو جملة قصيرة.",
+    "traits": [
+      "فراغ بنسبة 80–90%",
+      "خط يد رفيع",
+      "أربعة ألوان أو أقل",
+      "أكريليك مسطّح",
+      "تصميم الأغلفة"
+    ],
+    "good": [
+      "صور فيها عنصر واحد بحدود واضحة: دراجة، منارة، كلب، كرسي",
+      "لحظات هادئة فيها إحساس بالمكان: شخص وحيد على الشاطئ، شجرة في الثلج",
+      "صور لغلاف كتاب أو ملصق معرض أو منشور مستقل"
+    ],
+    "poor": [
+      "صور قيمتها في كثرة التفاصيل أو الأشخاص، فتضيع حين يصغر الحجم",
+      "طلب إظهار العنصر كبيراً يملأ الإطار",
+      "طلب ملمس الأقلام الملوّنة أو أقلام الشمع أو سيلان الألوان المائية أو الزيت الكثيف أو الرسم الرقمي الأملس"
+    ]
+  }
+}

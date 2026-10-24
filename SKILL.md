@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-006
-description: "Create XXD Panel 006 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-006 or requests the exact Panel 006 style."
+description: "XXD Panel 006｜Negative-Space Theater: reduces a photo to a small, instantly recognisable subject — about a tenth to a fifth of the design — drawn with thin, slightly unsteady hand lines and a few clear flat acrylic colour blocks (four main colours at most, taken from the photo) on rough white or pale paper with 80–90% empty space, only a hint of setting, visible paper grain and hand-painted edges, and a little airy text such as a title, object name, place, year or number, like an art-book or picture-book cover; it avoids coloured pencil, crayon, watercolour washes, pure line art, oil painting, smooth digital and 3D looks. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-006 or asks for small-subject, big-whitespace acrylic book-cover illustration from a photo."
 ---
 
 # XXD Panel 006
